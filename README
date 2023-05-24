@@ -1,1 +1,13 @@
 # api fhir
+
+#na pasta do projeto
+npm init
+
+npm install fhir.js
+
+#na pasta src
+node index.js
+
+#resultado: 
+#Servidor iniciado na porta 3000
+#ver em http://localhost:3000/
